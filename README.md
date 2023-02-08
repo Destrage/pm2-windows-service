@@ -1,13 +1,3 @@
-# pm2-windows-service [DEPRECATED]
-
-<br />
-<br />
-
-**This package is NO LONGER SUPPORTED OR MAINTAINED**
-
-<br />
-<br />
-
 To run `pm2` on Windows you should now use [`pm2-installer`](https://github.com/jessety/pm2-installer) instead.
 
 <br />
